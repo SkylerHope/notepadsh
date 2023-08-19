@@ -36,9 +36,8 @@ cd notepadsh
 cd notepadsh
 
 ./uninstall.sh
-
-Exit the terminal
 ```
+Now exit the terminal
 
 <h3>NOTE</h3>
 If you get the message "No such file or directory" it means you are probably already in the directory that you are trying to access
