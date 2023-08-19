@@ -37,9 +37,7 @@ cd notepadsh
 
 ./uninstall.sh
 
-cd ..
-
-rm -rf notepadsh
+Exit the terminal
 ```
 
 <h3>NOTE</h3>
