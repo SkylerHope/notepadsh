@@ -17,10 +17,6 @@ chmod +x install.sh
 <h2>Usage</h2>
 
 ```
-sh /notepadsh/notepad.sh
-```
-OR
-```
 cd notepadsh
 
 ./notepad.sh
@@ -32,10 +28,6 @@ cd notepadsh
 cd notepadsh
 
 ./clean.sh
-```
-OR
-```
-sh /notepadsh/clean.sh
 ```
 
 <h2>Uninstall</h2>
