@@ -1,4 +1,4 @@
-echo "Cleaning up your notes..."
+echo "Deleting all notes..."
 
 cd notes
 
@@ -7,4 +7,4 @@ echo "---------------------" >> notes.txt
 
 cd ..
 
-echo "Notepad is clean!"
+echo "Notepad entries were deleted successfully!"

@@ -1,6 +1,6 @@
 echo "Installing notepad.sh..."
 
-chmod +x clean.sh && chmod +x notepad.sh && chmod +x uninstall.sh
+chmod +x delete.sh && chmod +x notepad.sh && chmod +x uninstall.sh
 
 mkdir notes
 
@@ -11,6 +11,6 @@ echo "---------------------" >> notes.txt
 
 cd ..
 
-echo "notepad.sh has been installed!"
+echo "notepadsh has been installed!"
 
 rm install.sh
