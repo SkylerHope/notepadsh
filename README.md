@@ -22,15 +22,15 @@ cd notepadsh
 ./notepad.sh
 ```
 
-<h2>Clean your notes</h2>
+<h2>Delete all your notes</h2>
 
 ```
 cd notepadsh
 
-./clean.sh
+./delete.sh
 ```
 
-<h2>Uninstall</h2>
+<h2>Uninstall notepadsh</h2>
 
 ```
 cd notepadsh
