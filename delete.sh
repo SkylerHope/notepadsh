@@ -2,7 +2,7 @@ echo "Deleting all notes..."
 
 cd notes
 
-echo "[notepad.sh ver. 1.5]" > notes.txt
+echo "[notepadsh ver. 1.8]" > notes.txt
 echo "---------------------" >> notes.txt
 
 cd ..

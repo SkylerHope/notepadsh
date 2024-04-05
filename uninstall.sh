@@ -1,7 +1,7 @@
-echo "Uninstalling notepad.sh..."
+echo "Uninstalling notepadsh..."
 
 cd ..
 
-echo "notepad.sh has been removed from your system!"
+echo "notepadsh has been removed from your system!"
 
 rm -rf notepadsh
